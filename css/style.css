@@ -394,7 +394,7 @@ a:focus {
   color: #da7426;
 }
 
-.slider_section .detail-box h1 {
+.slider_section .detail-box h2 {
   font-weight: 600;
   margin-bottom: 0;
   color: #1b6be3;
@@ -948,7 +948,7 @@ a:focus {
   margin: 0 auto;
 }
 
-.brochure-section h1 {
+.brochure-section h2 {
   font-size: 2em;
   margin-bottom: 20px;
   color: #333;
@@ -982,7 +982,7 @@ a:focus {
     padding: 20px 10px;
   }
 
-  .brochure-section h1 {
+  .brochure-section h2 {
     font-size: 1.5em;
   }
 
@@ -1060,7 +1060,7 @@ a:focus {
   margin: 0 auto;
 }
 
-.client-section h1 {
+.client-section h2 {
   font-size: 2em;
   margin-bottom: 20px;
   color: #333;
